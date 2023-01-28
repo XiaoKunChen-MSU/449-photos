@@ -4,7 +4,6 @@ body {
     border-top: 15px solid #2c2c2c;
     margin: 0;
     background-color: rgb(226, 225, 225);
-   
 }
 
 h1 {
@@ -27,6 +26,8 @@ main {
     margin-left: auto;
     margin-right: auto;
     justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
 
 }
 
