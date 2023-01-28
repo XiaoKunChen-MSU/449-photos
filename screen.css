@@ -14,7 +14,7 @@ h1 {
 }
 
 img {
-    width: 400px;
+    width: 350px;
     height: 500px;
     object-fit: cover;
 }
@@ -26,6 +26,7 @@ main {
 
 .AllPhotos {
     display: flex;
+    flex-flow: row wrap;
     gap: 15px;
 
 }
