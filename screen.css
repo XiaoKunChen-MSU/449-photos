@@ -1,1 +1,31 @@
 /* Add screen styles below */
+
+body {
+    border-top: 15px solid #2c2c2c;
+   
+}
+
+h1 {
+    background-image:url('LOGO.png');
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: center left ;
+    padding-left: 45px;
+}
+
+img {
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+}
+
+main {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.AllPhotos {
+    display: flex;
+    gap: 15px;
+
+}
